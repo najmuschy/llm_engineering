@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LLM Engineering - Master AI and LLMs
 
 ## Your 8 week journey to proficiency starts today
@@ -122,3 +123,7 @@ Please do message me or email me at ed@edwarddonner.com if this doesn't work or 
         </td>
     </tr>
 </table>
+=======
+# llm_engineering
+learning llms
+>>>>>>> be0d00f683110b4d29f99580b042266058702ee1
